@@ -8,7 +8,7 @@
 
 
 <div align="center">
-<a href="https://discord.gg/acapulco" title="Discord Profile"><img src="https://i.hizliresim.com/m7mdbcu.png"></a>
+<a href="https://discord.com/users/1032027258157809685" title="Discord Profile"><img src="https://i.hizliresim.com/m7mdbcu.png"></a>
 </div>
 
 
