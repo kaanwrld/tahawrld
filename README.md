@@ -1,17 +1,17 @@
-### 👋 Hi, my sharey
+# Hı There , I'm Taha
+![profile count](https://komarev.com/ghpvc/?username=tahawrld&color=8b72ff)&nbsp;
+[![Raviwen Github ](https://img.shields.io/github/followers/tahawrld?label=follow&style=social)](https://github.com/tahawrld)&nbsp;
 
-![image](https://user-images.githubusercontent.com/93944142/196035315-bc0cb14d-b506-49e9-a842-6bcc46f79e7c.png)
+**Ücretli Bot İşlemleri İçin Discord Üzerinden İletişime Geçebilirsiniz.**
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/928091512535916565?theme=darkt&bg=000000&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else)](https://discord.com/users/928091512535916565)
+
+# İlgilerim;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharey1332&label=Profile%20views&color=0e75b6&style=flat" alt="sharey" /> </p>
-
-
-
-<div align="center">
-<a href="https://discord.com/users/1032027258157809685" title="Discord Profile"><img src="https://i.hizliresim.com/m7mdbcu.png"></a>
-</div>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharey1332&show_icons=true&theme=dracula&locale=en" alt="sharey"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharey1332&theme=dracula" alt="sharey" /></p>
+<h3 align="left">:bar_chart: GitHub Stats:</h3>
+<p align="left">
+   <img src="https://github-readme-stats.vercel.app/api?username=raviwen&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
