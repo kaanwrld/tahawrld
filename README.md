@@ -4,7 +4,7 @@
 
 **Ücretli Bot İşlemleri İçin Discord Üzerinden İletişime Geçebilirsiniz.**
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/928091512535916565?theme=darkt&bg=000000&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else)](https://discord.com/users/928091512535916565)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1035992211407507486)](https://discord.com/users/1035992211407507486)))](https://discord.com/users/928091512535916565)
 
 # İlgilerim;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
