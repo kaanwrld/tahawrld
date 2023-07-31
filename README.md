@@ -4,7 +4,7 @@
 
 **Ücretli Bot İşlemleri İçin Discord Üzerinden İletişime Geçebilirsiniz.**
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1035992211407507486)](https://discord.com/users/1035992211407507486)))]
+[![Discord Presence](https://lanyard.cnrad.dev/api/1035992211407507486)](https://discord.com/users/1035992211407507486)
 
 # İlgilerim;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
