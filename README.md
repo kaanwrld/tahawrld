@@ -17,7 +17,7 @@
 • 👯 I’m looking to collaborate on cool project.<br/>
 • 🌱 I’m currently learning HTML & CSS.<br/>
 • 💬 Ask me about <b>Discord Bots</b>, I am happy to help.<br/>
-• 📫 You can reach me via <a href="https://discord.com/users/1135675379298869401"><b>Discord</b></a> & <a href="https://www.instagram.com/shareywrld"><b>Instagram</b></a><br/>
+• 📫 You can reach me via <a href="https://discord.com/users/194713725029187585"><b>Discord</b></a> & <a href="https://www.instagram.com/tahawrll"><b>Instagram</b></a><br/>
 </span>
 
 <!-- ![Profile views](https://gpvc.arturio.dev/tahawrld) -->
